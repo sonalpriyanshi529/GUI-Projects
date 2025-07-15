@@ -1,6 +1,7 @@
 # Python GUI Projects
 
 Welcome to my collection of simple GUI-based Python projects! 👩‍💻✨  
+You can download it directly on your computer/laptop and run it.
 Each project here is built using libraries like `tkinter`.
 
 These scripts are perfect for:
